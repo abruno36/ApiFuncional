@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NuohG6uqZIikf5v/Z98HoJ1uyhEpN+kdlr3TCSPE1YiFI8FL+4+lPCWvo+TbXypdQ63VCtEsrjz60FyOzehgDw==",
+  "dgSpecHash": "ajHqSqE4xpmn1wssJw5NoYpYLR0/c14ox97bVRXi3r2UTspElH46JZd3UudtsKwRKVUYJGcPy8ZCcOnEFX7pJw==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\ApiFuncional\\ApiFuncional\\ApiFuncional.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.17\\microsoft.aspnetcore.authentication.jwtbearer.7.0.17.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.17\\microsoft.aspnetcore.cryptography.internal.7.0.17.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.17\\microsoft.aspnetcore.cryptography.keyderivation.7.0.17.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\7.0.17\\microsoft.aspnetcore.identity.entityframeworkcore.7.0.17.nupkg.sha512",

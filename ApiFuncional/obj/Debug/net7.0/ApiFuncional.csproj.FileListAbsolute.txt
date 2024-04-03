@@ -80,3 +80,4 @@ C:\Projetos\ApiFuncional\ApiFuncional\bin\Debug\net7.0\Microsoft.AspNetCore.Iden
 C:\Projetos\ApiFuncional\ApiFuncional\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 C:\Projetos\ApiFuncional\ApiFuncional\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Projetos\ApiFuncional\ApiFuncional\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Projetos\ApiFuncional\ApiFuncional\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
